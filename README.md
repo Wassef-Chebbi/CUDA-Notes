@@ -5,7 +5,7 @@ Useful ressources for discovering and working with Cuda
 
 
 # Running Cuda programs on Colab
-  To check the cuda installation, simply open a new notebook and set up the runtime configuration by going to ```Runtime``` >> ```Change runtime type``` and then setting the ```Hardware accelerator``` to  ```GPU```. 
+  To check the cuda installation, simply open a new notebook and set up the runtime configuration by going to ```Runtime``` >> ```Change runtime type``` and then setting the ```Hardware accelerator``` to  ```GPU```.    
   
  Secondaly type ```!nvcc --version```
   
