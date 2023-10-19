@@ -1,4 +1,0 @@
-Currently, the loop function inside mbl.cu runs a for loop that will serially print the numbers 0 through 9.
-Refactor the loop function to be a CUDA kernel which will launch to execute N iterations in parallel.
-After successfully refactoring, the numbers 0 through 9 should still be printed.
-For this exercise, as an additional constraint, use an execution configuration that launches at least 2 blocks of threads.
