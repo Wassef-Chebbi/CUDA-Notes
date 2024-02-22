@@ -1,6 +1,6 @@
-# TPCUDA
+# CUDA
 
-Useful ressources for discovering and working with Cuda
+Useful notes for discovering and working with Cuda
 
 
 
